@@ -1,0 +1,14 @@
+@media screen and (max-width:1250px) {
+    header {
+        padding: 20px 50px;
+    }
+    :root {
+        --big-font: 3.5rem;
+        --h2-font: 1.5rem
+    }
+}
+@media screen and (max-width:1097px) {
+    section {
+        padding: 50px 7%;
+    }
+    }
